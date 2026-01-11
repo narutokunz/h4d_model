@@ -1,0 +1,4 @@
+ward_id,alert_threshold_mm_hr,critical_threshold_mm_hr,alert_sample_count,critical_sample_count,alert_method,critical_method,last_updated
+029N,4.55204423268636,,24,0,quantile,global_fallback,2026-01-12 03:17:25
+060E,2.159006118774414,,48,0,quantile,global_fallback,2026-01-12 03:17:25
+085S,4.55204423268636,,0,0,global_fallback,global_fallback,2026-01-12 03:17:25

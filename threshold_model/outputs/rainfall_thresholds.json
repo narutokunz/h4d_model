@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-12T03:17:25.888759",
+    "total_wards": 3,
+    "schema_version": "1.0"
+  },
+  "thresholds": [
+    {
+      "ward_id": "029N",
+      "alert_threshold_mm_hr": 4.55204423268636,
+      "critical_threshold_mm_hr": null,
+      "sample_count": 26280,
+      "last_updated": "2026-01-12 03:17:25"
+    },
+    {
+      "ward_id": "060E",
+      "alert_threshold_mm_hr": 2.159006118774414,
+      "critical_threshold_mm_hr": null,
+      "sample_count": 26280,
+      "last_updated": "2026-01-12 03:17:25"
+    },
+    {
+      "ward_id": "085S",
+      "alert_threshold_mm_hr": 4.55204423268636,
+      "critical_threshold_mm_hr": null,
+      "sample_count": 26280,
+      "last_updated": "2026-01-12 03:17:25"
+    }
+  ]
+}

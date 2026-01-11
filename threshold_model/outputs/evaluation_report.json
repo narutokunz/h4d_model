@@ -1,0 +1,78 @@
+{
+  "evaluation_date": "2026-01-12T03:32:31.540276",
+  "thresholds_file": "threshold_model\\outputs\\rainfall_thresholds.csv",
+  "training_data_file": "threshold_model\\data\\threshold_training_data_2022_2025.csv",
+  "coverage": {
+    "total_wards": 3,
+    "wards_with_alert_threshold": "3",
+    "wards_with_critical_threshold": "0",
+    "alert_coverage_percentage": 100.0,
+    "critical_coverage_percentage": 0.0,
+    "complete_coverage_percentage": 0.0
+  },
+  "threshold_statistics": {
+    "alert_thresholds": {
+      "count": 3,
+      "mean": 3.754364861382378,
+      "median": 4.55204423268636,
+      "std": 1.3816211992480965,
+      "min": 2.159006118774414,
+      "max": 4.55204423268636,
+      "percentiles": {
+        "25th": 3.355525175730387,
+        "75th": 4.55204423268636,
+        "90th": 4.55204423268636
+      }
+    },
+    "critical_thresholds": null
+  },
+  "model_quality": {
+    "validation_status": true,
+    "sample_statistics": {
+      "mean_samples": 26280.0,
+      "min_samples": "26280",
+      "max_samples": "26280",
+      "wards_with_low_samples": "0",
+      "wards_with_adequate_samples": "3"
+    },
+    "validation_results": {
+      "valid": true,
+      "total_wards": 3,
+      "wards_with_alert": "3",
+      "wards_with_critical": "0",
+      "negative_alert_count": "0",
+      "negative_critical_count": "0",
+      "invalid_order_count": 0,
+      "warnings": []
+    },
+    "completeness_score": 100.0,
+    "recommendations": []
+  },
+  "training_data_statistics": {
+    "total_samples": 78840,
+    "total_wards": 3,
+    "date_range": {
+      "start": "2022-01-01 00:00:00",
+      "end": "2026-01-02 23:00:00"
+    },
+    "waterlogging_distribution": {
+      "level_0": "78768",
+      "level_1": "72",
+      "level_2": "0",
+      "total_with_waterlogging": "72"
+    },
+    "waterlogging_percentages": {
+      "none": 99.90867579908675,
+      "minor": 0.091324200913242,
+      "severe": 0.0,
+      "any": 0.091324200913242
+    },
+    "per_ward_stats": {
+      "mean_samples_per_ward": 26280.0,
+      "min_samples_per_ward": "26280",
+      "max_samples_per_ward": "26280",
+      "wards_with_waterlogging": "2",
+      "wards_with_severe": "0"
+    }
+  }
+}
