@@ -1,0 +1,49 @@
+{
+  "test_metrics": {
+    "auc_roc": 0.7305351309294013,
+    "auc_pr": 0.25215339564957406,
+    "brier_score": 0.03338689018867952,
+    "f1_score": 0.2077028885832187,
+    "accuracy": 0.9611086729009825
+  },
+  "cv_auc_mean": 0.7454149607700733,
+  "cv_auc_std": 0.003952745735102459,
+  "training_config": {
+    "use_real_data": true,
+    "synthetic_samples": 10000,
+    "failure_rate": 0.12,
+    "test_size": 0.2,
+    "val_size": 0.15,
+    "random_state": 42,
+    "years": [
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "n_samples": 296208,
+  "n_features": 20,
+  "feature_names": [
+    "rain_1h",
+    "rain_3h",
+    "rain_6h",
+    "rain_24h",
+    "rain_intensity",
+    "rain_forecast_3h",
+    "mean_elevation",
+    "elevation_std",
+    "low_lying_pct",
+    "drain_density",
+    "slope_mean",
+    "hist_flood_freq",
+    "monsoon_risk_score",
+    "complaint_baseline",
+    "hour_of_day",
+    "day_of_monsoon",
+    "is_peak_monsoon",
+    "rain_x_vulnerability",
+    "rain_x_lowlying",
+    "antecedent_stress"
+  ],
+  "trained_at": "2026-01-11T21:55:02.668336"
+}

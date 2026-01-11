@@ -1,0 +1,22 @@
+{
+  "rain_1h": 0.05787187460096934,
+  "rain_3h": 0.059793694622102905,
+  "rain_6h": 0.029586169177612164,
+  "rain_24h": 0.14361088445640788,
+  "rain_intensity": 0.14364624348133248,
+  "rain_forecast_3h": 0.07176859374445643,
+  "mean_elevation": 0.0,
+  "elevation_std": 0.0,
+  "low_lying_pct": 0.0,
+  "drain_density": 0.0,
+  "slope_mean": 0.0,
+  "hist_flood_freq": 0.015857648071315435,
+  "monsoon_risk_score": 0.04997197549892347,
+  "complaint_baseline": 0.02260908863043073,
+  "hour_of_day": 0.011391210911063758,
+  "day_of_monsoon": 0.04175443777953123,
+  "is_peak_monsoon": 0.0029249244949192546,
+  "rain_x_vulnerability": 0.13082938302927746,
+  "rain_x_lowlying": 0.0833033084227852,
+  "antecedent_stress": 0.1350805630788721
+}

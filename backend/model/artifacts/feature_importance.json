@@ -1,0 +1,22 @@
+{
+  "rain_1h": 547.0,
+  "rain_3h": 161.0,
+  "rain_6h": 32.0,
+  "rain_24h": 16.0,
+  "rain_intensity": 0.0,
+  "rain_forecast_3h": 0.0,
+  "mean_elevation": 406.0,
+  "elevation_std": 391.0,
+  "low_lying_pct": 352.0,
+  "drain_density": 254.0,
+  "slope_mean": 412.0,
+  "hist_flood_freq": 156.0,
+  "monsoon_risk_score": 400.0,
+  "complaint_baseline": 209.0,
+  "hour_of_day": 232.0,
+  "day_of_monsoon": 1360.0,
+  "is_peak_monsoon": 162.0,
+  "rain_x_vulnerability": 274.0,
+  "rain_x_lowlying": 282.0,
+  "antecedent_stress": 354.0
+}

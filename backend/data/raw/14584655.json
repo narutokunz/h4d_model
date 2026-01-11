@@ -1,0 +1,462 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-01-24T04:52:49.628557+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 6,
+    "default_preview": "variables_description_indofloods.pdf",
+    "enabled": true,
+    "entries": {
+      "catchment_characteristics_indofloods.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:480e5f8604f1232b69b73ec25dd74a18",
+        "ext": "csv",
+        "id": "d422a8d9-192b-4a2c-b67a-91f58105991f",
+        "key": "catchment_characteristics_indofloods.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/14584655/files/catchment_characteristics_indofloods.csv/content",
+          "self": "https://zenodo.org/api/records/14584655/files/catchment_characteristics_indofloods.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 146653,
+        "storage_class": "L"
+      },
+      "catchments_shapefiles_indofloods.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:87021353b066248023a62e492d766839",
+        "ext": "zip",
+        "id": "c878c660-7133-4287-80fa-7df24c44c57b",
+        "key": "catchments_shapefiles_indofloods.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/14584655/files/catchments_shapefiles_indofloods.zip/content",
+          "self": "https://zenodo.org/api/records/14584655/files/catchments_shapefiles_indofloods.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 664787,
+        "storage_class": "L"
+      },
+      "floodevents_indofloods.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:729f3f857e4d4dce33fbe8b67c492172",
+        "ext": "csv",
+        "id": "f1ede2d1-eceb-4ab2-bdac-09d56668cdff",
+        "key": "floodevents_indofloods.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/14584655/files/floodevents_indofloods.csv/content",
+          "self": "https://zenodo.org/api/records/14584655/files/floodevents_indofloods.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 469728,
+        "storage_class": "L"
+      },
+      "metadata_indofloods.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8228295ef7133fb46c92dd7ff0066c14",
+        "ext": "csv",
+        "id": "0aa9b256-2b68-4363-a4b7-d2138c629a1b",
+        "key": "metadata_indofloods.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/14584655/files/metadata_indofloods.csv/content",
+          "self": "https://zenodo.org/api/records/14584655/files/metadata_indofloods.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 40058,
+        "storage_class": "L"
+      },
+      "precipitation_variables_indofloods.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:dfd1491d22fff46e6086eebda8f758c9",
+        "ext": "csv",
+        "id": "0706b682-e265-4ed7-b862-181871570f46",
+        "key": "precipitation_variables_indofloods.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/14584655/files/precipitation_variables_indofloods.csv/content",
+          "self": "https://zenodo.org/api/records/14584655/files/precipitation_variables_indofloods.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 677548,
+        "storage_class": "L"
+      },
+      "variables_description_indofloods.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d8cf91fe8731922d7195bfb3394d0e2f",
+        "ext": "pdf",
+        "id": "ce33546f-402d-4055-807a-4bca5c82f6a4",
+        "key": "variables_description_indofloods.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/14584655/files/variables_description_indofloods.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:14584655/canvas/variables_description_indofloods.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf/info.json",
+          "self": "https://zenodo.org/api/records/14584655/files/variables_description_indofloods.pdf"
+        },
+        "metadata": {},
+        "mimetype": "application/pdf",
+        "size": 185357,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 2184131
+  },
+  "id": "14584655",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/14584655/access",
+    "access_grants": "https://zenodo.org/api/records/14584655/access/grants",
+    "access_links": "https://zenodo.org/api/records/14584655/access/links",
+    "access_request": "https://zenodo.org/api/records/14584655/access/request",
+    "access_users": "https://zenodo.org/api/records/14584655/access/users",
+    "archive": "https://zenodo.org/api/records/14584655/files-archive",
+    "archive_media": "https://zenodo.org/api/records/14584655/media-files-archive",
+    "communities": "https://zenodo.org/api/records/14584655/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/14584655/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.14584655",
+    "draft": "https://zenodo.org/api/records/14584655/draft",
+    "file_modification": "https://zenodo.org/api/records/14584655/file-modification",
+    "files": "https://zenodo.org/api/records/14584655/files",
+    "latest": "https://zenodo.org/api/records/14584655/versions/latest",
+    "latest_html": "https://zenodo.org/records/14584655/latest",
+    "media_files": "https://zenodo.org/api/records/14584655/media-files",
+    "parent": "https://zenodo.org/api/records/14584654",
+    "parent_doi": "https://doi.org/10.5281/zenodo.14584654",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14584654",
+    "parent_html": "https://zenodo.org/records/14584654",
+    "preview_html": "https://zenodo.org/records/14584655?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/14584655/request-deletion",
+    "requests": "https://zenodo.org/api/records/14584655/requests",
+    "reserve_doi": "https://zenodo.org/api/records/14584655/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/14584655",
+    "self_doi": "https://doi.org/10.5281/zenodo.14584655",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14584655",
+    "self_html": "https://zenodo.org/records/14584655",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14584655/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14584655/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:14584655:variables_description_indofloods.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/14584655/versions"
+  },
+  "media_files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "variables_description_indofloods.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "dec7bb15-3dad-4f29-b2f2-1f3eaac4e322",
+        "key": "variables_description_indofloods.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/14584655/files/variables_description_indofloods.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/14584655/files/variables_description_indofloods.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ce33546f-402d-4055-807a-4bca5c82f6a4",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "049tgcd06",
+            "identifiers": [
+              {
+                "identifier": "049tgcd06",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.417967.a",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0558 8755",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Indian Institute of Technology Delhi"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Kuntla",
+          "given_name": "Sai Kiran",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4391-9477",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Kuntla, Sai Kiran",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "049tgcd06",
+            "identifiers": [
+              {
+                "identifier": "049tgcd06",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.417967.a",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0558 8755",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Indian Institute of Technology Delhi"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Saharia",
+          "given_name": "Manabendra",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5275-0821",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Saharia, Manabendra",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>The Indian Observational Flood Events Database (INDOFLOODS) is a unique flood event database designed to advance flood research and management in India. This database integrates long-term station discharge observations with official flooding thresholds to provide detailed historical flood event information.</p>\n<p><strong>Key hydrological data include:</strong></p>\n<ol>\n<li>start and end date and time of flooding</li>\n<li>peak flood water level (with corresponding dates)</li>\n<li>peak discharge (with corresponding dates)</li>\n<li>flood volume</li>\n<li>event duration</li>\n<li>time to peak, and</li>\n<li>recession time.</li>\n</ol>\n<p>In addition to flood details, the database includes metadata such as upstream catchment area, geographic coordinates, and names of rivers and tributaries. It is further enhanced with extensive:</p>\n<ol>\n<li>geomorphological,</li>\n<li>climatological,</li>\n<li>event-scale precipitation,</li>\n<li>land cover,</li>\n<li>soil,</li>\n<li>lithology,</li>\n<li>and anthropogenic characteristics derived at the catchment scale.</li>\n</ol>\n<p>Catchment boundary shapefiles are also provided to facilitate users' extension of the database as needed.</p>\n<p><strong>Contents of the Database:</strong></p>\n<ol>\n<li>Variables description</li>\n<li>Metadata</li>\n<li>Flood events</li>\n<li>Catchment characteristics</li>\n<li>Precipitation variables</li>\n<li>Catchment boundary shapefiles</li>\n</ol>\n<p>Please refer to the Variables description file (variables_description_indofloods.pdf) for a complete list of variables and their descriptions.</p>\n<p>For detailed information about this database and its development, please refer to the original research article published in the <em>Bulletin of the American Meteorological Society</em> (BAMS):</p>\n<p>Kuntla, S. K., &amp; Saharia, M. (2025). INDOFLOODS: A comprehensive database for flood events in India enhanced with catchment attributes. <em>Bulletin of the American Meteorological Society, </em>106(2), E333&ndash;E343<em>.</em> <a href=\"https://doi.org/10.1175/BAMS-D-24-0008.1\" target=\"_new\" rel=\"noopener\">https://doi.org/10.1175/BAMS-D-24-0008.1</a></p>\n<p><strong>Disclaimer</strong></p>\n<p>The INDOFLOODS database on this web portal is openly accessible for academic and research purposes. While every effort has been made to ensure the accuracy of the data, the authors do not assume responsibility for errors, omissions, or misuse. Users must cite the INDOFLOODS database and the associated research article published in the Bulletin of the American Meteorological Society (BAMS) when utilizing this data and acknowledge that all interpretations and conclusions are their own. We also encourage users to cite or acknowledge the original sources of catchment variables per their respective data usage policies.</p>\n<p><strong>To Be Cited</strong>:</p>\n<ol>\n<li>Kuntla, S. K., &amp; Saharia, M. (2025). INDOFLOODS: A comprehensive database for flood events in India enhanced with catchment attributes. <em>Bulletin of the American Meteorological Society, </em>106(2), E333&ndash;E343<em>.</em> <a href=\"https://doi.org/10.1175/BAMS-D-24-0008.1\" target=\"_new\" rel=\"noopener\">https://doi.org/10.1175/BAMS-D-24-0008.1</a></li>\n<li>Kuntla, S. K., &amp; Saharia, M. (2025). INDOFLOODS: A Comprehensive Database for Flood Events in India Enhanced with Catchment Attributes [Data set].&nbsp;<em>Zenodo</em>. https://doi.org/10.5281/zenodo.14584654<br><br></li>\n</ol>\n<p><strong>Additional Information</strong>:</p>\n<p>This version of INDOFLOODS doesn't contain data for the Ganga and Brahmaputra basins. Interested users may contact the authors to request the complete dataset, subject to a reasonable request.</p>\n<p>Contacts:</p>\n<p>Dr. Sai Kiran Kuntla: kuntlasaikiran@gmail.com</p>\n<p>Dr. Manbendra Saharia: msaharia@iitd.ac.in</p>",
+    "identifiers": [
+      {
+        "identifier": "10.1175/BAMS-D-24-0008.1",
+        "scheme": "doi"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2025-01-24",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Floods"
+      },
+      {
+        "subject": "natural hazards"
+      },
+      {
+        "subject": "climate"
+      },
+      {
+        "subject": "streamflow extremes"
+      },
+      {
+        "subject": "catchment"
+      },
+      {
+        "subject": "geomorphology"
+      },
+      {
+        "subject": "climatology"
+      },
+      {
+        "subject": "streamflow"
+      },
+      {
+        "subject": "meteorology"
+      },
+      {
+        "subject": "watershed"
+      },
+      {
+        "subject": "India"
+      },
+      {
+        "subject": "hydrology"
+      },
+      {
+        "subject": "flood"
+      }
+    ],
+    "title": "INDOFLOODS: A Comprehensive Database for Flood Events in India Enhanced with Catchment Attributes",
+    "version": "1.0"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "421512"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "default": "7054a12c-985b-41e8-92ed-1d1ae304b832",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "closed",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2024-04-26T05:34:50.685785+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "7054a12c-985b-41e8-92ed-1d1ae304b832",
+          "links": {},
+          "metadata": {
+            "curation_policy": "",
+            "description": "We develop technologies for monitoring and mitigating natural hazards\n\nAll datasets are uploaded by the HydroSense Lab, IIT Delhi\n\nPrincipal Investigator: Dr. Manabendra Saharia, Assistant Professor IIT Delhi",
+            "organizations": [
+              {
+                "id": "049tgcd06"
+              }
+            ],
+            "page": "<h1>At HydroSense Lab, IIT Delhi, we develop technologies for monitoring and mitigating natural hazards.</h1>\n<h1>Principal Investigator: Dr. Manabendra Saharia, Assistant Professor, IIT Delhi</h1>\n<h1>Please visit us: https://hydrosense.iitd.ac.in/</h1>",
+            "title": "HydroSense Lab, IIT Delhi",
+            "type": {
+              "id": "organization"
+            },
+            "website": "https://hydrosense.iitd.ac.in/"
+          },
+          "revision_id": 10,
+          "slug": "hydrosense",
+          "updated": "2024-06-12T13:32:53.123613+00:00"
+        }
+      ],
+      "ids": [
+        "7054a12c-985b-41e8-92ed-1d1ae304b832"
+      ]
+    },
+    "id": "14584654",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.14584654",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.14584655",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:14584655",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 28,
+  "stats": {
+    "all_versions": {
+      "data_volume": 2854512430.0,
+      "downloads": 10447,
+      "unique_downloads": 7885,
+      "unique_views": 4050,
+      "views": 4625
+    },
+    "this_version": {
+      "data_volume": 2854512430.0,
+      "downloads": 10447,
+      "unique_downloads": 7885,
+      "unique_views": 4050,
+      "views": 4625
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2025-11-27T21:43:14.670371+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}
